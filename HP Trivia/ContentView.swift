@@ -63,16 +63,18 @@ struct ContentView: View {
                         
                         Spacer()
                         
-                        Button("Play") {
+                        Button {
                             //Start new game
+                        } label:{
+                            Text("Play")
+                                .font(.largeTitle)
+                                .foregroundColor(.white)
+                                .padding(.vertical, 7)
+                                .padding(.horizontal, 50)
+                                .background(.brown)
+                                .cornerRadius(7)
+                                .shadow(radius: 5)
                         }
-                        .font(.largeTitle)
-                        .foregroundColor(.white)
-                        .padding(.vertical, 7)
-                        .padding(.horizontal, 50)
-                        .background(.brown)
-                        .cornerRadius(7)
-                        .shadow(radius: 5)
                         
                         Spacer()
                         
