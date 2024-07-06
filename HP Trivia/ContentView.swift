@@ -136,7 +136,7 @@ struct ContentView: View {
                                         .shadow(radius: 5)
                                 }
                                 .transition(.offset(x: geo.size.width / 4))
-                                .sheet(isPresented: $showSettings) {
+                                .fullScreenCover(isPresented: $showSettings) {
                                     Settings()
                                 }
                             }
