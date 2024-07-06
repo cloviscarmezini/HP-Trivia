@@ -21,6 +21,7 @@
 		6166978F2C3625CB00FFD8BE /* magic-in-the-air.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 616697872C3625CB00FFD8BE /* magic-in-the-air.mp3 */; };
 		616697902C3625CB00FFD8BE /* let-the-mystery-unfold.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 616697882C3625CB00FFD8BE /* let-the-mystery-unfold.mp3 */; };
 		616697922C362D6A00FFD8BE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616697912C362D6A00FFD8BE /* Constants.swift */; };
+		61D55B592C39B98C00543F96 /* Gameplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D55B582C39B98C00543F96 /* Gameplay.swift */; };
 		61F7E9552C37640C00ABEB4C /* Instructions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F7E9542C37640C00ABEB4C /* Instructions.swift */; };
 		61F7E9572C376E6400ABEB4C /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61F7E9562C376E6400ABEB4C /* Settings.swift */; };
 /* End PBXBuildFile section */
@@ -41,6 +42,7 @@
 		616697872C3625CB00FFD8BE /* magic-in-the-air.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "magic-in-the-air.mp3"; sourceTree = "<group>"; };
 		616697882C3625CB00FFD8BE /* let-the-mystery-unfold.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "let-the-mystery-unfold.mp3"; sourceTree = "<group>"; };
 		616697912C362D6A00FFD8BE /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		61D55B582C39B98C00543F96 /* Gameplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gameplay.swift; sourceTree = "<group>"; };
 		61F7E9542C37640C00ABEB4C /* Instructions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instructions.swift; sourceTree = "<group>"; };
 		61F7E9562C376E6400ABEB4C /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -77,6 +79,7 @@
 			children = (
 				616697712C36242800FFD8BE /* HP_TriviaApp.swift */,
 				616697732C36242800FFD8BE /* ContentView.swift */,
+				61D55B582C39B98C00543F96 /* Gameplay.swift */,
 				61F7E9562C376E6400ABEB4C /* Settings.swift */,
 				61F7E9542C37640C00ABEB4C /* Instructions.swift */,
 				616697912C362D6A00FFD8BE /* Constants.swift */,
@@ -183,6 +186,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				616697742C36242800FFD8BE /* ContentView.swift in Sources */,
+				61D55B592C39B98C00543F96 /* Gameplay.swift in Sources */,
 				616697722C36242800FFD8BE /* HP_TriviaApp.swift in Sources */,
 				61F7E9552C37640C00ABEB4C /* Instructions.swift in Sources */,
 				616697922C362D6A00FFD8BE /* Constants.swift in Sources */,
