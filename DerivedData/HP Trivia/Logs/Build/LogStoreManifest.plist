@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>090D0A1B-A287-49A4-993F-4FDE00A8C04F</key>
+		<key>1D3D1D3D-5A4F-4D7F-A773-A11C031471DC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,49 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>090D0A1B-A287-49A4-993F-4FDE00A8C04F.xcactivitylog</string>
+			<string>1D3D1D3D-5A4F-4D7F-A773-A11C031471DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HP Trivia project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HP Trivia</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews HP Trivia</string>
+			<key>timeStartedRecording</key>
+			<real>741982989.15640199</real>
+			<key>timeStoppedRecording</key>
+			<real>741983002.92784095</real>
+			<key>title</key>
+			<string>Build for Previews HP Trivia</string>
+			<key>uniqueIdentifier</key>
+			<string>1D3D1D3D-5A4F-4D7F-A773-A11C031471DC</string>
+		</dict>
+		<key>524F1D2A-1E6C-47D5-B583-E32C28CE1560</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>524F1D2A-1E6C-47D5-B583-E32C28CE1560.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -25,7 +67,7 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>5</integer>
+				<integer>2</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
@@ -40,15 +82,15 @@
 			<key>signature</key>
 			<string>Build for Previews HP Trivia</string>
 			<key>timeStartedRecording</key>
-			<real>741982172.87832201</real>
+			<real>741983018.58270502</real>
 			<key>timeStoppedRecording</key>
-			<real>741982173.30694199</real>
+			<real>741983027.36388898</real>
 			<key>title</key>
 			<string>Build for Previews HP Trivia</string>
 			<key>uniqueIdentifier</key>
-			<string>090D0A1B-A287-49A4-993F-4FDE00A8C04F</string>
+			<string>524F1D2A-1E6C-47D5-B583-E32C28CE1560</string>
 		</dict>
-		<key>0F070CB7-7C22-40C8-82FF-B9D60923005A</key>
+		<key>A8FBA92E-4332-4BE3-AE83-0DE9D732F905</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -57,7 +99,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0F070CB7-7C22-40C8-82FF-B9D60923005A.xcactivitylog</string>
+			<string>A8FBA92E-4332-4BE3-AE83-0DE9D732F905.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -82,349 +124,13 @@
 			<key>signature</key>
 			<string>Build for Previews HP Trivia</string>
 			<key>timeStartedRecording</key>
-			<real>741979739.68541205</real>
+			<real>741983038.85897601</real>
 			<key>timeStoppedRecording</key>
-			<real>741979742.88851202</real>
+			<real>741983040.75785899</real>
 			<key>title</key>
 			<string>Build for Previews HP Trivia</string>
 			<key>uniqueIdentifier</key>
-			<string>0F070CB7-7C22-40C8-82FF-B9D60923005A</string>
-		</dict>
-		<key>369C3460-3EE3-45F8-B9AC-2D384C76E29C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>369C3460-3EE3-45F8-B9AC-2D384C76E29C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>3</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>HP Trivia project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HP Trivia</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>timeStartedRecording</key>
-			<real>741982167.08733404</real>
-			<key>timeStoppedRecording</key>
-			<real>741982167.41467595</real>
-			<key>title</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>uniqueIdentifier</key>
-			<string>369C3460-3EE3-45F8-B9AC-2D384C76E29C</string>
-		</dict>
-		<key>42B66B81-470D-4F53-9F39-D61D021194BA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>42B66B81-470D-4F53-9F39-D61D021194BA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>19</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>HP Trivia project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HP Trivia</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>timeStartedRecording</key>
-			<real>741982060.36192203</real>
-			<key>timeStoppedRecording</key>
-			<real>741982060.73125005</real>
-			<key>title</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>uniqueIdentifier</key>
-			<string>42B66B81-470D-4F53-9F39-D61D021194BA</string>
-		</dict>
-		<key>52AA4BE2-E42E-4188-A079-2A6830F13BBC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>52AA4BE2-E42E-4188-A079-2A6830F13BBC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>HP Trivia project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HP Trivia</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>timeStartedRecording</key>
-			<real>741833888.20923603</real>
-			<key>timeStoppedRecording</key>
-			<real>741833889.51461899</real>
-			<key>title</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>uniqueIdentifier</key>
-			<string>52AA4BE2-E42E-4188-A079-2A6830F13BBC</string>
-		</dict>
-		<key>77E6569F-3DA3-43E9-9930-B005A8B8A357</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>77E6569F-3DA3-43E9-9930-B005A8B8A357.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>3</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>HP Trivia project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HP Trivia</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>timeStartedRecording</key>
-			<real>741980179.34299695</real>
-			<key>timeStoppedRecording</key>
-			<real>741980179.82397103</real>
-			<key>title</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>uniqueIdentifier</key>
-			<string>77E6569F-3DA3-43E9-9930-B005A8B8A357</string>
-		</dict>
-		<key>8FE008FF-4112-4486-A0FE-593CD4FC9C80</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8FE008FF-4112-4486-A0FE-593CD4FC9C80.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>HP Trivia project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HP Trivia</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>timeStartedRecording</key>
-			<real>741982184.25784099</real>
-			<key>timeStoppedRecording</key>
-			<real>741982185.44565403</real>
-			<key>title</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>uniqueIdentifier</key>
-			<string>8FE008FF-4112-4486-A0FE-593CD4FC9C80</string>
-		</dict>
-		<key>9BEAF275-7CFF-4A3B-A1C6-16525758C699</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9BEAF275-7CFF-4A3B-A1C6-16525758C699.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>HP Trivia project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HP Trivia</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>timeStartedRecording</key>
-			<real>741980557.72472405</real>
-			<key>timeStoppedRecording</key>
-			<real>741980560.63493097</real>
-			<key>title</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>uniqueIdentifier</key>
-			<string>9BEAF275-7CFF-4A3B-A1C6-16525758C699</string>
-		</dict>
-		<key>E728F21B-3B21-4B6F-BEBE-260B400F72A3</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E728F21B-3B21-4B6F-BEBE-260B400F72A3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>HP Trivia project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HP Trivia</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>timeStartedRecording</key>
-			<real>741980183.84382105</real>
-			<key>timeStoppedRecording</key>
-			<real>741980184.89010406</real>
-			<key>title</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>uniqueIdentifier</key>
-			<string>E728F21B-3B21-4B6F-BEBE-260B400F72A3</string>
-		</dict>
-		<key>FE47E686-6767-4EEF-9465-034F060FE313</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FE47E686-6767-4EEF-9465-034F060FE313.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>HP Trivia project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>HP Trivia</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>timeStartedRecording</key>
-			<real>741982067.24705601</real>
-			<key>timeStoppedRecording</key>
-			<real>741982068.57077301</real>
-			<key>title</key>
-			<string>Build for Previews HP Trivia</string>
-			<key>uniqueIdentifier</key>
-			<string>FE47E686-6767-4EEF-9465-034F060FE313</string>
+			<string>A8FBA92E-4332-4BE3-AE83-0DE9D732F905</string>
 		</dict>
 	</dict>
 </dict>
